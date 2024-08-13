@@ -14,7 +14,6 @@
         <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img align='center' alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
         <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%238511FA.svg?style=for-the-badge&logo=flaskp&logoColor=white"/>
     
 
 </div><br/>
