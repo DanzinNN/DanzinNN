@@ -2,7 +2,7 @@
 
 **Estudante de programação focado em desenvolvimento com Java e Python, criando projetos práticos e evoluindo constantemente.**
 
----
+#
 
 ## 🌐 Onde me encontrar
 
@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+#
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
----
+#
 
 ### 🧠 Conhecimentos
 
@@ -36,7 +36,7 @@
 - 🔹 Métodos e funções  
 - 🔹 Programação Orientada a Objetos (POO)  
 
----
+#
 
 ### 🛠️ Ferramentas
 
@@ -49,7 +49,7 @@
 - ☕ IntelliJ IDEA para desenvolvimento Java  
 - 🔧 Versionamento de código com Git e GitHub  
 
----
+#
 
 ## 📊 GitHub Stats
 
@@ -58,7 +58,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanzinNN&layout=compact&theme=tokyonight" />
 </p>
 
----
+#
 
 ## 🚀 Em evolução
 
@@ -66,13 +66,13 @@
 - 🧠 Melhorando lógica e estrutura de código  
 - 🚀 Desenvolvendo projetos práticos  
 
----
+#
 
 ## 🚀 Filosofia
 
 > _"Evoluir um pouco todos os dias é melhor do que tentar ser perfeito de uma vez."_  
 
----
+#
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations and new ideas
